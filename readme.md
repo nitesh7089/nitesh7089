@@ -8,14 +8,14 @@ I love solving real-world problems, automating workflows, and crafting clean, pe
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-nitesh-prajapati)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nitesh7089)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-nitesh-prajapati&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nitesh-prajapati&layout=compact&theme=radical)
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitesh7089&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh7089&layout=compact&theme=radical)
 
 ---
 
